@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aelpxy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently leaning Tailwind CSS
+- 🌱 I’m currently learning Tailwind CSS
 - 💞️ I’m currently working for @XoniaPlay
 - 📫 Reach me in my discord server
