@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Aelpxy
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently leaning C++
+- 💞️ I’m currently working for @XoniaPlay
+- 📫 Reach me in my discord server
