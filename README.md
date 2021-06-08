@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Aelpxy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Tailwind CSS
-- 💞️ I’m currently working for @XoniaPlay
-- 📫 Reach me in my discord server
+- 👀 :)
+- 🌱 I’m currently learning NEXT.JS
+# I like JavaScript
+ ```js
+I like JavaScript
+```
