@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Aelpxy
-- 👀 :)
-- 🌱 I’m currently learning NEXT.JS
-# I like JavaScript
- ```js
-I like JavaScript
-```
+Hi, I'm Aelpxy!
+
+**Experience, I got =>**
+
+*Frontend*
+***React.JS**
+***Vue.JS***
+
+*Backend*
+***Express.JS***
+
+Node and Other Stuff :)
