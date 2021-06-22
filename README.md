@@ -12,5 +12,5 @@ Hi, I'm Aelpxy!
 
 Node and Other Stuff :)
 
-Im Currently The **Cheif Software Engineer** at 
+Im Currently The **Chief Software Engineer** at 
 https://xoniaapp.com/
