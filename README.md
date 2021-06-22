@@ -4,6 +4,7 @@ Hi, I'm Aelpxy!
 
 *Frontend*
 ***React.JS**
+.............
 ***Vue.JS***
 
 *Backend*
