@@ -11,6 +11,3 @@ Hi, I'm Aelpxy!
 ***Express.JS***
 
 Node and Other Stuff :)
-
-Im Currently The **Chief Software Engineer** at 
-https://xoniaapp.com/
