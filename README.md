@@ -1,13 +1,19 @@
-Hi, I'm Aelpxy!
+# Hi, I'm aelpxy :smile:
 
-**Experience, I got =>**
 
-*Frontend*
-----------------------
-***React.JS,Vue.JS***
+<h1>Things I know...</h1>
 
-*Backend*
-----------------------
-***NODE.JS***
+1. HTML, CSS :hamburger:
+2. JavaScript, TypeScript
+3. Python (Still learning) :smile:
 
-Node and Other Stuff :)
+**Stuff I use, :smile:**
+1. React
+2. Vue
+3. Express
+4. Many more :smile:
+
+
+Want to talk? mention <a href="https://twitter.com/aelpxy">@aelpxy</a> in Twitter 🐦
+<br/>
+Join my Discord here? <a href="https://discord.gg/rtza3X9WxZ">Discord</a> :speech_balloon:
