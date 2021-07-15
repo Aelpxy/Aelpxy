@@ -14,6 +14,15 @@
 4. Many more :smile:
 
 
-Want to talk? mention <a href="https://twitter.com/aelpxy">@aelpxy</a> in Twitter 🐦
-<br/>
-Join my Discord here? <a href="https://discord.gg/rtza3X9WxZ">Discord</a> :speech_balloon:
+Want to talk? mention <a class="link1" href="https://twitter.com/aelpxy">@aelpxy</a> in Twitter 🐦
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+a {
+    color: black;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+}
+
+a.link1:hover, a.link2:active {color: rgb(0, 0, 0); font-family: 'Ubuntu', sans-serif; font-weight: bolder;}
+  </style>
