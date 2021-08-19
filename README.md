@@ -7,9 +7,7 @@ Interested in following things.
 <li><a href="https://archlinux.org/">Arch based Distros</a></li>
 </ul>
 
-### What OS do you use?
-
-<p>I use <a href="https://manjaro.org/">Manjaro</a> a Arch based Linux Distro.</p>
+### OS: <a href="https://manjaro.org/">Manjaro Linux</a>
 
 ### Technologies, That I use -
 - [x] React
