@@ -1,8 +1,10 @@
 Hi,
 I'm
 <a href="https://titter.com/aelpxy">Aelpxy</a>, Full Stack Enginner.
+
 </hr>
-Interested
+
+Interested in following things.
 
 <ul>
 <li><a href="https://raspberrypi.org">Raspberry Pi</a></li>
