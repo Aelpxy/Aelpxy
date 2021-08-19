@@ -1,10 +1,11 @@
 Hi,
 I'm
 <a href="https://titter.com/aelpxy">Aelpxy</a>, Full Stack Enginner.
-Interested in <a href="https://raspberrypi.org">Raspberry Pi</a>
+</hr>
+Interested
 
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://raspberrypi.org">Raspberry Pi</a></li>
+<li><a href="https://archlinux.org/">Arch based Distros</a></li>
+<li><a href="https://raspberrypi.org">Raspberry Pi</a></li>
 </ul>
