@@ -11,12 +11,12 @@ I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&lo
 
 ### Technologies, That I use -
 
-- ![JS](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-- ![JS](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)
-- ![JS](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte)
-- ![JS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-- ![JS](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=Fastify)
-- ![JS](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
+- ![](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+- ![](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)
+- ![](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte)
+- ![](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+- ![](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=Fastify)
+- ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 ##### i mainly use JavaScript & TypeScript for my projects...
 
