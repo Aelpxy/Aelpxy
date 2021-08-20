@@ -7,7 +7,7 @@ Interested in following things.
 <li><a href="https://archlinux.org/">Arch based Distros</a></li>
 </ul>
 
-### OS: ![Linux](https://img.shields.io/badge/OS-black?style=for-the-badge&logo=manjaro)
+![Linux](https://img.shields.io/badge/OS: Manjaro-black?style=for-the-badge&logo=manjaro)
 
 ### Technologies, That I use -
 
