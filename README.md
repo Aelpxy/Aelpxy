@@ -8,8 +8,7 @@ Interested in...
 
  I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&logo=manjaro) as my OS.
 
-- ### My Favorite Frameworks & Other's...
----
+- ### I like these
 
 ![](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
