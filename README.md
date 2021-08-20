@@ -17,6 +17,7 @@ I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&lo
 - ![](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 - ![](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=Fastify)
 - ![](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
+- ![](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku)
 
 ##### i mainly use JavaScript & TypeScript for my projects...
 
