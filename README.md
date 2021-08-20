@@ -18,3 +18,6 @@ Interested in following things.
 - [x] ElectronJS
 
 ##### i mainly use JavaScript & TypeScript for my projects...
+
+- ### My GitHub Stats
+![Aelpxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelpxy&show_icons=true)
