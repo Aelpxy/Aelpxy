@@ -6,7 +6,7 @@ Interested in...
 - Python & Go-Lang
 
 
- I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&logo=manjaro) as my OS.
+ I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&logo=manjaro) & ![Windows](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&logo=windows) as my OS.
 
 - ### I like these
 
