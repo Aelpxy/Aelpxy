@@ -33,6 +33,8 @@ Interested in...
 ---
 #### I mainly use JavaScript & TypeScript for my projects...
 ---
+#### Currently, Learning 
+![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
 ### My GitHub Stats
 ![Aelpxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelpxy&show_icons=true)
