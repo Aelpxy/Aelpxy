@@ -29,6 +29,7 @@ Interested in...
 ![](https://img.shields.io/badge/Raspberry_Pi-black?style=for-the-badge&logo=RaspberryPi)
 ![](https://img.shields.io/badge/Firefox_Browser-black?style=for-the-badge&logo=FirefoxBrowser)
 ![](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 
 
 - Many more left... ( I will include later :D )
