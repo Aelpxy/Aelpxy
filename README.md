@@ -1,12 +1,8 @@
 Hi,
 I'm
 <a href="https://twitter.com/aelpxy">Aelpxy</a>, Full Stack Enginner.
-Interested in...
 
-- Python & Go-Lang
-
-
- I use ![Linux](https://img.shields.io/badge/Manjaro-black?style=for-the-badge&logo=manjaro) as my OS.
+ I use Arch based Distros.
 
 - ### I like these
 
@@ -30,14 +26,25 @@ Interested in...
 ![](https://img.shields.io/badge/Firefox_Browser-black?style=for-the-badge&logo=FirefoxBrowser)
 ![](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+- Many more left... ( I will include later :D ):
+---
 
+Languages | Experience
+------------ | -------------
+JavaScript | 26 Months
+TypeScript | 19 Months
+Go | 6 Days
 
-- Many more left... ( I will include later :D )
 ---
 #### I mainly use JavaScript & TypeScript for my projects...
 ---
 #### Currently, Learning 
-![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 ### My GitHub Stats
 ![Aelpxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelpxy&show_icons=true)
+
+### Socials
+[Twitter](https://twitter.com/aelpxy)
+<br>
+Email: [aelpxy@protonmail.com](mailto:aelpxy@protonmail.com)
