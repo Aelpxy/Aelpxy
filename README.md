@@ -2,7 +2,7 @@ Hi,
 I'm
 <a href="https://twitter.com/aelpxy">Aelpxy</a>, Full Stack Enginner.
 
- I use Arch based Distros.
+ I use an Arch based Distro.
 
 - ### I like these
 
