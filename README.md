@@ -1,6 +1,6 @@
 Hi,
 I'm
-<a href="https://twitter.com/aelpxy">Aelpxy</a>, Full Stack Enginner.
+<a href="https://twitter.com/aelpxy">Aelpxy</a>.
 
  I use an Arch based Distro.
 
