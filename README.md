@@ -47,4 +47,4 @@ Go | 6 Days
 ### Socials
 [Twitter](https://twitter.com/aelpxy)
 <br>
-Email: [aelpxy@protonmail.com](mailto:aelpxy@protonmail.com)
+Email: [aelpxy@xoniaapp.com](mailto:aelpxy@xoniaapp.com)
