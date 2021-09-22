@@ -31,9 +31,9 @@ I'm
 
 Languages | Experience
 ------------ | -------------
-JavaScript | 26 Months
-TypeScript | 19 Months
-Go | 6 Days
+JavaScript | 27 Months
+TypeScript | 20 Months
+Go | 9 Days
 
 ---
 #### I mainly use JavaScript & TypeScript for my projects...
