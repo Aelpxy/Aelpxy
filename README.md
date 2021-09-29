@@ -2,7 +2,7 @@ Hi,
 I'm
 <a href="https://twitter.com/aelpxy">Aelpxy</a>.
 
- I use an Arch based Distro.
+ I use Arch Linux.
 
 - ### I like these
 
