@@ -27,6 +27,7 @@ I'm
 ![](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 ![](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![](https://img.shields.io/badge/RustLang-black?style=for-the-badge&logo=rust)
 
 - Many more left... ( I will include later :D ):
 ---
@@ -35,7 +36,7 @@ Languages | Experience
 ------------ | -------------
 JavaScript | 27 Months
 TypeScript | 20 Months
-Go | 9 Days
+RUST | 29 Days
 
 ---
 #### I mainly use JavaScript & TypeScript for my projects...
