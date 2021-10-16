@@ -50,4 +50,4 @@ RUST | 29 Days
 ### Socials
 [Twitter](https://twitter.com/aelpxy)
 <br>
-Email: [aelpxy@xoniaapp.com](mailto:aelpxy@xoniaapp.com)
+Email: [aelpxy@xoniaapp.com](mailto:aelpxy@protonmail.com)
