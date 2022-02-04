@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Aelpxy</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Student who wants to study computer science</h3>
 
 
 <p align="left"> <a href="https://twitter.com/aelpxy" target="blank"><img src="https://img.shields.io/twitter/follow/aelpxy?logo=twitter&style=for-the-badge" alt="aelpxy" /></a> </p>
