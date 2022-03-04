@@ -1,4 +1,3 @@
-<h1 align="center">Привет 👋, I'm Aelpxy</h1>
 <h3 align="center">a full stack developer</h3>
 
 
